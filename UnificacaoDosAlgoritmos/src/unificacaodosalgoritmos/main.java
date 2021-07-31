@@ -8,8 +8,11 @@ public class main {
     
     public static void main(String[] args) {
         
-       new LinesAlgorithm();
-      
+       //new LinesAlgorithm();
+      //new FillAlgorithms();
+      //new BoundaryFillAlgorithm();
+     //new GeometricAnalysisAlgorithm();
+        new CircumferencesAlgorithm();
         
     }
     
